@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background-image: url('./assets/spices-black-background-space-text_169016-3118.jpg');
+}
