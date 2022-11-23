@@ -12,13 +12,14 @@ const Footer = () => {
     <div className='max-w-[1240px] mx-auto py-16 px-4 flex justify-center text-gray-300'>
       <div>
         <h1 className='w-full text-3xl font-bold text-[#e28743]'>TRFR.</h1>
-        <p className='py-4'>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Id odit ullam iste repellat consequatur libero reiciendis, blanditiis accusantium.</p>
+        <p className='py-4'>This
+company is a restaurant that can cook all kinds of food from asia and europe from several countries and their
+traditional and famous food</p>
         <div className='flex justify-between  my-6'>
             <FaFacebookSquare size={30} />
             <FaInstagram size={30} />
             <FaTwitterSquare size={30} />
             <FaDiscord size={30} />
-       
         </div>
       </div>
   

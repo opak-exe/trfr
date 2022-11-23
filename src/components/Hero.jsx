@@ -22,7 +22,7 @@ const Hero = () => {
           </p>
           <Typed
           className='md:text-5xl sm:text-4xl text-xl font-bold md:pl-4 pl-2 text-[#e28743]'
-            strings={['Chinese food', 'Japanese food', 'European food' , 'American food']}
+            strings={['Chinese food', 'European food' , 'American food']}
             typeSpeed={120}
             backSpeed={140}
             loop

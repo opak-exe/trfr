@@ -3,5 +3,14 @@
 @tailwind utilities;
 
 body {
-  background-image: url('./assets/spices-black-background-space-text_169016-3118.jpg');
+  background-color: black;
+}
+.mp40 {
+  border: 2px rgb(84, 84, 84) solid;
+}
+.AI {
+  align-items: center;
+}
+.rf {
+  border-radius: 50%;
 }
